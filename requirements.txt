@@ -1,0 +1,10 @@
+google-genai
+requests
+pypdf>=5,<7
+scikit-learn
+pandas
+scipy
+matplotlib
+graphviz>=0.20,<1
+numpy>=2,<2.8
+gradio
